@@ -5,9 +5,9 @@ function personnalise(id, texte) {
     chercher.innerHTML = para;
 }
 
-let id = 'p1';
-let texte = "Je suis le paragraphe 1";
-personnalise(id, texte);
+let id1 = 'p1';
+let texte1 = "Je suis le paragraphe 1";
+personnalise(id1, texte1);
 
 let id2 = 'p2';
 let texte2 = "Je suis le paragraphe 2";
