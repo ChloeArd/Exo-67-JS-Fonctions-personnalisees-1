@@ -1,7 +1,6 @@
 function personnalise(id, texte) {
     let chercher = document.getElementById(id);
-    let rien = " ";
-    let para = rien.replace(" ", texte);
+    let para = texte;
     chercher.innerHTML = para;
 }
 
